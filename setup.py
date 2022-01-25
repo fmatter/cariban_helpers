@@ -37,7 +37,7 @@ setuptools.setup(
 "tqdm",
 "uritemplate",
 "urllib3",
-    ]
+    ],
     entry_points = {
         'console_scripts': ['cmeta_download=cariban_helpers.download:main'],
     },
